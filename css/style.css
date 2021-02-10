@@ -1,0 +1,132 @@
+body{
+    font-family: arial, sans-serif;
+    background-color: #ccc;
+    margin: 0;
+}
+
+#banner{
+    height: 500px;
+    background-image: url(../imagens/bg-3.jpg);
+    background-position: right center;
+    background-size: cover;
+    border-top: 1px solid transparent;
+}
+ 
+#banner ul{
+    text-align: right;
+}
+
+.menu{
+    display: inline-block;
+    list-style: none;
+    border: solid 2px rgba(255, 255, 255, 0.6);
+    margin: 15px 25px 0px 0px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.34);
+    display: block;
+    padding: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.menu a:hover{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+#inicio{
+    text-align: center;
+    color: #fff;
+    margin-top: 150px;
+}
+
+#inicio p{
+    font-size: 22px;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: inline-block;
+    padding: 10px;
+    border-bottom: 2px solid white;
+}
+
+h1{
+    text-transform: uppercase;
+    text-shadow: 3px 3px 5px #333;
+    font-size: 50px;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+}
+
+.content_section{
+    background-color: #fff;
+    padding: 15px;
+    margin-top: 15px;
+    overflow: auto;
+}
+
+.content_section h2{
+    padding: 5px 0px 5px 10px;
+    background-color: #ccc;
+    border-bottom: solid 3px #343434;
+}
+
+.cards{
+    background-color: rgba(39, 39, 39, 0.35);
+    width: 32%;
+    float: left; 
+    margin-left: 1%;
+    box-sizing: border-box;
+}
+
+.cards img{
+    width: 100%;
+}
+
+.cards p{
+    display: block;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 20px;
+    padding: 15px;
+    font-variant: small-caps;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #6a6a6a;
+    color: white;
+    text-shadow: 3px 3px 2px #000000;
+}
+
+
+/*
+li{
+    padding: 0;
+    margin: 0;
+}
+li a{
+    font-weight: 600;
+    border: solid 1px #fff;
+    text-align: center;
+    padding: 8px;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+    margin: 0px 5px;
+    float: right;
+}
+h2{
+    color: #fff;
+    background-color: rgba(25, 23, 23, 0.61);
+    font-size: 11px;
+    text-align: center;
+    border-bottom: solid 2px #fff;
+    margin: 0 40%;
+}
+*/
