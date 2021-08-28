@@ -94,6 +94,23 @@ h2 {
     font-size: medium;
 }
 
+
+/*--------------*/
+/* Content Home */
+/*--------------*/
+
+
 .cards img{
-    margin-left: 30px;
+    margin-left: 2rem;
 }
+
+
+/*-------------------*/
+/* Content Interests */
+/*-------------------*/
+
+
+iframe {
+    margin-left: 1rem;
+}
+
