@@ -1,0 +1,99 @@
+/*------------------*/
+/* UI for all pages */
+/*------------------*/
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(37,173,255);
+    background: linear-gradient(47deg, rgba(37,173,255,1) 0%, rgba(69,138,255,1) 47%, rgba(1,95,153,1) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: stretch;
+}
+
+
+/*----------------------*/
+/* UI for left-box area */
+/*----------------------*/
+
+
+.left-box {
+    width: 20%;
+    margin: 1rem 2.5%;
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 1rem;
+    float: left;
+    text-align: center;
+}
+
+.img-eric {
+    width: 70%;
+    border-radius: 50%;
+    margin: 1rem 15% 0;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.menu-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-button{
+    text-transform: uppercase;
+    margin-top: 0.5rem;
+}
+
+.menu-button a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+
+/*-----------------------*/
+/* UI for right-box area */
+/*-----------------------*/
+
+.right-box{
+    margin: 1rem 2.5%;
+    width: 70%;
+    float: right;
+}
+
+h2 {
+    background-color: #C1D2DE;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    margin-top: 0;
+}
+
+.content-main{
+    background-color: #C1D2DE;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+}
+
+.content-main h2{
+    margin: 0;
+
+}
+
+.content-main p{
+    line-height: 1.5;
+    text-align: justify;
+    margin: 0 1rem;
+    font-size: medium;
+}
+
+.cards img{
+    margin-left: 30px;
+}

@@ -8,26 +8,63 @@
         <meta name="author" content="@ericxlima">
         <meta name="description" content="Personal Portfolio - Eric de Lima - Programmer">
         <meta name="keywords" content="Eric de Lima">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="style/style.css">
         <link rel="icon" href="img/icon.svg">
     </head>
     
     <body>
-        <div class="menu">
-            <header>
+        <section class="left-box">
+            
+            <div class="content-profile">
                 <img class='img-eric' src="https://avatars.githubusercontent.com/u/58092119?v=4" alt="Logo at CIN-UFPE">
-            </header>
+                <h1>Eric de Lima</h1>
+            </div>
+
             <nav class="menu-nav">
                 <ul class="menu-list">
-                    <li class='menu-button'><a href="index.html">Welcome</a></li>
+                    <li class='menu-button selected-button'><a href="index.html">Welcome</a></li>
                     <li class='menu-button'><a href="templates/interests.html">Interests</a></li>
-                    <li class='menu-button'><a href="templates/publications.html">Publications</a></li>
+                    <li class='menu-button'><a href="templates/experience.html">Experience</a></li>
                     <li class='menu-button'><a href="templates/academic.html">Academic</a></li>
                     <li class='menu-button'><a href="templates/personal.html">Personal</a></li>
                 </ul>
             </nav>
-        </div>
-        
+        </section>
+
+
+        <section class="right-box">
+            
+            <header>
+                <h2>Welcome</h2>
+            </header>
+            
+            <main class="content-main">
+                <div class="content-main-home">
+                    
+                    <!--Image to add later-->
+
+                    <h3>Micro-bio</h3>
+
+                    <p>Hi! I am a Bachelor degree student in <b>Computer Science</b> at the Centro de Informática (<a href="https://portal.cin.ufpe.br/">CIn</a>), 
+                        Federal University of Pernambuco (<a href="https://www.ufpe.br/">UFPE</a>), Brazil.
+                        Between 2017 and 2019, I had the opportunity to take the <b>Computer Network Technician</b> course, where I won a meritorious <b>laurel</b>, at 
+                        State Technical School <a href="https://pt-br.facebook.com/escolatecnicaarlindoferreiradossantos/">ETEAFS</a>.
+                        There, I could meet amazing people who encouraged me a lot to persist in the computing world and to presenting me with other horizons.
+                        During my life I was able to participate in several <b>math olympics</b>, in addition to chess championships. 
+                        And today I dedicate myself to the <b>study</b> of programming languages ​​and their uses in society.
+
+                    </p> 
+                    <h3>Contact Information</h3>
+                    
+                    <div class="cards">
+                        <img src="img/contact-icons/github.svg" alt="github" width="70">
+                        <img src="img/contact-icons/linkedin.svg" alt="github" width="70">
+                        <img src="img/contact-icons/envelope.svg" alt="e-mail" width="70">
+                    </div>
+
+                </div>
+            </main>
+        </section>
 
     </body>
 </html>
