@@ -115,3 +115,12 @@ iframe {
     margin-left: 1rem;
 }
 
+
+
+/*-------------------*/
+/* Content Academic  */
+/*-------------------*/
+
+.content-main-academic h3 {
+    color: red;
+}
