@@ -7,10 +7,9 @@
 }
 
 body{
-    background: rgb(37,173,255);
+    align-items: stretch;
     background: linear-gradient(47deg, rgba(37,173,255,1) 0%, rgba(69,138,255,1) 47%, rgba(1,95,153,1) 100%);
     font-family: Arial, Helvetica, sans-serif;
-    align-items: stretch;
 }
 
 
