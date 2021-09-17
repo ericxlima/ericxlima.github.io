@@ -137,3 +137,13 @@ iframe {
 .content-main-academic h3 {
     color: red;
 }
+
+/*------------------*/
+/* Content Personal */
+/*------------------*/
+
+.spotify {
+    width: 80%;
+    border-radius: 1rem;
+    margin-left: 1rem;
+}
