@@ -1,0 +1,14 @@
+[
+  {
+    "image": "https://example.com/process-mining-cnj.jpg",
+    "title": "Process Mining CNJ",
+    "description": "Web application that, from a .csv file with EventLogs sent, processes and generates an svg image with the Directly Follows Graph (DFG).",
+    "githubLink": "https://github.com/ericxlima/process-mining-CNJ"
+  },
+  {
+    "image": "https://example.com/hand-gestures-libras.jpg",
+    "title": "Hand Gestures LIBRAS",
+    "description": "Machine Learning for Hand Gesture Recognition Applied to LIBRAS (Brazilian Sign Language).",
+    "githubLink": "https://github.com/ericxlima/Hand_Gestures_LIBRAS"
+  }
+]
