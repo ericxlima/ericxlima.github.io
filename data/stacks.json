@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "language": "Python",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    },
+    {
+      "language": "Django",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
+    },
+    {
+      "language": "Flask",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"
+    },
+    {
+      "language": "NodeJS",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
+    },
+    {
+      "language": "ExpressJS",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
+    },
+    {
+      "language": "Sequelize",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"
+    },
+    {
+      "language": "JavaScript",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "language": "TypeScript",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    },
+    {
+      "language": "React",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+    }
+  ],
+  [
+    {
+      "language": "Angular",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+    },
+    { "language": "Nginx", 
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" },
+    {
+        "language": "Docker",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
+    },
+    {
+        "language": "Google Cloud",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"
+    },
+    {
+        "language": "Bash",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+    },
+    {
+        "language": "Ionic",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg"
+    },
+    {
+        "language": "PostgreSQL",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"   
+    },
+    {
+        "language": "MySQL",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"
+    }
+  ]
+]
