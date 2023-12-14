@@ -1,7 +1,12 @@
 .profile-image {
-    width: 80%;
+    width: 60%;
     border-radius: 50%;
     border: 3px solid;
+}
+
+.stack-image {
+    width: 100px;
+    margin-right: 1rem;
 }
 
 @media (max-width: 768px) {
