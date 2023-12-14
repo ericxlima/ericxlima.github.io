@@ -12,9 +12,9 @@
 
 <body>
   <header class="container py-3">
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav id="navbar" class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Eric de Lima</a>
+        <a class="navbar-brand" href="#navbar">Eric de Lima</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -22,26 +22,28 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="#">Home</a>
+              <a class="nav-link" aria-current="page" href="#main">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="#main">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Tech Stack</a>
+              <a class="nav-link" href="#techStack">Tech Stack</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Projects</a>
+              <a class="nav-link" href="#projects">Projects</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Contact</a>
             </li>
           </ul>
-          <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="#">
+          <a class="me-3 py-2 link-body-emphasis text-decoration-none" target="_blank"
+            href="https://github.com/ericxlima/">
             <img class="nav-image"
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           </a>
-          <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="#">
+          <a class="me-3 py-2 link-body-emphasis text-decoration-none" target="_blank"
+            href="https://www.linkedin.com/in/ericxlima/">
             <img class="nav-image"
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
           </a>
@@ -50,7 +52,7 @@
     </nav>
   </header>
   <main class="container mt-4 pt-4">
-    <section class="row">
+    <section id="main" class="row">
       <div class="col-12 col-md-6 align-items-center d-flex">
         <div>
           <p class="lead mb-4">😺 Hello!!!</p>
@@ -65,7 +67,7 @@
       </div>
     </section>
 
-    <section>
+    <section id="techStack">
       <h2 class="display-7 text-center">My Tech Stack</h2>
       <p class="lead text-center">Top skills and tools I've been working with recently</p>
 
@@ -126,7 +128,7 @@
         </button>
       </div>
     </section>
-    <section>
+    <section id="projects">
       <h2 class="display-7 text-center mt-4">Projects</h2>
       <p class="lead text-center">Things I've built so far</p>
 
@@ -207,7 +209,7 @@
       <p>&copy; 2023 Eric de Lima. Todos os direitos reservados.</p>
     </div>
   </footer>
-  
+
 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
