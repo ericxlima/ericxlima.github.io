@@ -1,14 +1,50 @@
 [
   {
-    "image": "https://example.com/process-mining-cnj.jpg",
+    "image": "./data/assets/pmcnj.png",
     "title": "Process Mining CNJ",
     "description": "Web application that, from a .csv file with EventLogs sent, processes and generates an svg image with the Directly Follows Graph (DFG).",
     "githubLink": "https://github.com/ericxlima/process-mining-CNJ"
   },
   {
-    "image": "https://example.com/hand-gestures-libras.jpg",
+    "image": "./data/assets/libras.png",
     "title": "Hand Gestures LIBRAS",
     "description": "Machine Learning for Hand Gesture Recognition Applied to LIBRAS (Brazilian Sign Language).",
     "githubLink": "https://github.com/ericxlima/Hand_Gestures_LIBRAS"
+  },
+  {
+    "image": "./data/assets/pandora.png",
+    "title": "Pandora VS UFPE",
+    "description": "A game about Pandora's Life at UFPE in 2020.2",
+    "githubLink": "https://github.com/ericxlima/Pandora_vs_UFPE"
+  },
+  {
+    "image": "./data/assets/chip.png",
+    "title": "Chip Comparator",
+    "description": "A 4-bit magnitude cascade comparator chip ",
+    "githubLink": "https://github.com/ericxlima/chip-comparator"
+  },
+  {
+    "image": "./data/assets/rive_clips.png",
+    "title": "RiveClips",
+    "description": "AI-generated Music Clips using Stable Diffusion",
+    "githubLink": "https://github.com/ericxlima/edits.ai"
+  },
+  {
+    "image": "./data/assets/logic.png",
+    "title": "Logic Flashcards",
+    "description": "Flashcards for logic monitoring",
+    "githubLink": "https://github.com/ericxlima/logic"
+  },
+  {
+    "image": "./data/assets/dogs.png",
+    "title": "Dog Breed Classifier",
+    "description": "This project is a GUI for classifying dog breed by images. It uses a pre-trained neural network called ResNet-18 to perform the classification",
+    "githubLink": "https://github.com/ericxlima/dog-breed-classifier"
+  },
+  {
+    "image": "./data/assets/soft.png",
+    "title": "SOFT",
+    "description": "Room reservation system, with infrastructure in Docker, Nginx and compose",
+    "githubLink": "https://github.com/ericxlima/soft"
   }
 ]

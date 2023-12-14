@@ -22,6 +22,10 @@
     color: black;
 }
 
+.image-card {
+    height: 12rem;
+}
+
 @media (max-width: 768px) {
     .profile-image {
         width: 50%;

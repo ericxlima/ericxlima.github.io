@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function () {
           card.classList.add('card', 'h-100');
   
           const img = document.createElement('img');
-          img.classList.add('card-img-top');
+          img.classList.add('card-img-top', 'image-card');
           img.src = project.image;
           img.alt = project.title;
   
