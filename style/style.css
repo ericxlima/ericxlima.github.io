@@ -1,0 +1,11 @@
+.profile-image {
+    width: 80%;
+    border-radius: 50%;
+    border: 3px solid;
+}
+
+@media (max-width: 768px) {
+    .profile-image {
+        width: 50%;
+    }
+}
