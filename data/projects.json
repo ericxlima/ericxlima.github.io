@@ -46,5 +46,23 @@
     "title": "SOFT",
     "description": "Room reservation system, with infrastructure in Docker, Nginx and compose",
     "githubLink": "https://github.com/ericxlima/soft"
+  },
+  {
+    "image": "./data/assets/cueio.png",
+    "title": "Cueio Interactive",
+    "description": "Interactive Video Environment using the DOM player",
+    "githubLink": "https://github.com/ericxlima/CUEIO-interactive"
+  },
+  {
+    "image": "./data/assets/transcreveai.png",
+    "title": "Transcreve AI",
+    "description": "Create subtitled video from YouTube video, in English and Portuguese",
+    "githubLink": "https://github.com/ericxlima/django-transcreve-ai"
+  },
+  {
+    "image": "./data/assets/dikastinhos.png",
+    "title": "Dikastinhos Bot",
+    "description": "Discord bot to help with programming monitoring used by online judge Dikastis",
+    "githubLink": "https://github.com/ericxlima/Dikastinhos-Bot"
   }
 ]
